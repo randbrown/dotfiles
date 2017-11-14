@@ -124,6 +124,6 @@ GIT_PS1_SHOWSTASHSTATE=1
 GIT_PS1_SHOWUNTRACKEDFILES=1
 GIT_PS1_SHOWUPSTREAM="auto"
 
-export PATH=$PATH:/home/randbrown/bin
+export PATH=$PATH:/home/rbrown/bin
 
-source '/home/randbrown/lib/azure-cli/az.completion'
+source '/home/rbrown/lib/azure-cli/az.completion'

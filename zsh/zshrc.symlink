@@ -52,7 +52,7 @@ POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status history)
 ## 
 
 # Default username to hide "user@hostname" info
-DEFAULT_USER="randbrown"
+DEFAULT_USER="rbrown"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -144,4 +144,4 @@ alias ohmyzsh="code ~/.oh-my-zsh"
 export PATH=$PATH:~/bin
 
 autoload bashcompinit && bashcompinit
-#source '/Users/randbrown/lib/azure-cli/az.completion'
+#source '/Users/rbrown/lib/azure-cli/az.completion'
