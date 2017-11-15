@@ -126,4 +126,4 @@ GIT_PS1_SHOWUPSTREAM="auto"
 
 export PATH=$PATH:/home/rbrown/bin
 
-source '/home/rbrown/lib/azure-cli/az.completion'
+#source '/home/rbrown/lib/azure-cli/az.completion'
