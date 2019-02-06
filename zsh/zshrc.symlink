@@ -143,3 +143,6 @@ export PATH=$PATH:~/bin
 
 autoload bashcompinit && bashcompinit
 #source '/Users/rbrown/lib/azure-cli/az.completion'
+
+
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=5'
